@@ -5,7 +5,7 @@ Aplicação de previsão do tempo que consome uma API online para exibir informa
 ## 📌 Funcionalidades  
 - 🔍 Busca de previsão do tempo por cidade  
 - 🌡️ Exibição da temperatura, umidade e condição climática  
-- 🎨 Interface responsiva e amigável  
+- 🎨 Interface amigável  
 - 🔄 Atualização dinâmica dos dados  
 
 ## 🚀 Tecnologias Utilizadas  
